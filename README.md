@@ -31,7 +31,7 @@ LaserCut is a utility to feed simple DXF files directly to a LaserCutter, with c
 
 ### FireBERT
 
-FireBERT is an attempt to harden BERT-based classifiers against adversarial attack by the program "TextFooler". It is a cooperation with Kevin Hartman and Andrew Morris. Our paper can be found at https://arxiv.org/abs/2008.04203. It will be presented at FICC 2021 in April, and publish by Springer. All code and data for this project can be found at https://github.com/FireBERT-NLP/FireBERT. I am the lead author on the paper, personally wrote the code for the FIVE and FUSE classifiers, and shepherded the paper through publication. Classifiers are written in Python/PyTorch. 
+FireBERT is an attempt to harden BERT-based classifiers against adversarial attack by the program "TextFooler". It is a cooperation with Kevin Hartman and Andrew Morris. Our paper can be found at https://arxiv.org/abs/2008.04203. It will be presented at FICC 2021 in April, and published by Springer. All code and data for this project can be found at https://github.com/FireBERT-NLP/FireBERT. I am the lead author on the paper, personally wrote the code for the FIVE and FUSE classifiers, and shepherded the paper through publication. Classifiers are written in Python/PyTorch. 
 
 ### Rote memorization experiment
 
